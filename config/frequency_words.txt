@@ -27,3 +27,44 @@ GTA
 德约
 @5
 
+LLM
+Research
+Dwarkesh
+Ilya Sutskever
+Andrej Karpathy
+NeurIPS
+ICML
+ICLR
+ACL
+EMNLP
+NAACL
+COLM
+@5
+
+Kimi
+Deepseek
+Anthropic
+OpenAI
+Gemini
+智谱
+@3
+
+NanoBanana
+Kling
+Flux
+即梦
+可灵
+混元
+通义
+清影
+@3
+
+Suno
+Udio
+Google MusicFX
+Klay
+MusicGen
+YueAI
+ByteDance Ripple
+灵音引擎
+@5
