@@ -68,3 +68,9 @@ YueAI
 ByteDance Ripple
 灵音引擎
 @5
+
+Kaggle
+AIMO
+IMO
+数学奥赛
+@2
